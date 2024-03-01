@@ -263,6 +263,7 @@ class LoginWidget(QWidget):
                     msgBox.setText("wait for few seconds")
                     msgBox.exec_() 
                     time.sleep(5)
+                    print("communication started")
                     
                 else:
                     self.ipConfigErrorMsg.setText('Please fill ip and port  input ')
