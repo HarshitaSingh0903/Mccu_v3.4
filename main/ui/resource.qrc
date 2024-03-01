@@ -1,0 +1,39 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>icon/icons8-help-64.png</file>
+    <file>icon/power-off.png</file>
+    <file>icon/azDir0.png</file>
+    <file>icon/xelDir1.png</file>
+    <file>icon/polDir0.png</file>
+    <file>icon/polDir1.png</file>
+    <file>icon/xelDir0.png</file>
+    <file>icon/elDir1.png</file>
+    <file>icon/elDir0.png</file>
+    <file>icon/m.png</file>
+    <file>icon/azDir1.png</file>
+    <file>icon/icons8-satellite-96.png</file>
+    <file>icon/icons8-o-67.png</file>
+    <file>icon/log-file-format.png</file>
+    <file>icon/refresh_MCCU.png</file>
+    <file>icon/shield.png</file>
+    <file>icon/Image_18.jpg</file>
+    <file>icon/home.png</file>
+    <file>icon/insurance.png</file>
+    <file>icon/shutdown_MCCU.png</file>
+    <file>icon/switch-off.png</file>
+    <file>icon/switch-on.png</file>
+    <file>icon/dashboard.png</file>
+    <file>icon/diagnostic.png</file>
+    <file>icon/graph.png</file>
+    <file>icon/logout.png</file>
+    <file>icon/satellite.png</file>
+    <file>icon/Azadi-Ka-Amrit-Mahotsav-PNG-Logo-Hindi.png</file>
+    <file>icon/dots-menu.png</file>
+    <file>icon/Samarsat _Colour_ Logo.jpg</file>
+    <file>icon/settings.png</file>
+    <file>icon/user.png</file>
+    <file>icon/c.png</file>
+    <file>icon/document.png</file>
+    <file>icon/icons8-close-window-50.png</file>
+  </qresource>
+</RCC>
